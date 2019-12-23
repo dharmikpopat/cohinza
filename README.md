@@ -1,3 +1,1 @@
-Cozinha 
-
-Food Ordering Website
+Cozinha: A Food Ordering Website
